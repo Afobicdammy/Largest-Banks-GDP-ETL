@@ -1,0 +1,17 @@
+
+2025-Apr-03-23:45:08 : Initiating ETL process
+2025-Apr-03-23:45:08 :  
+2025-Apr-03-23:45:08 : Extraction Process
+2025-Apr-03-23:45:10 : Transformation process
+2025-Apr-03-23:45:10 : Loading process
+2025-Apr-03-23:45:10 : Data loaded to CSV
+2025-Apr-03-23:45:10 : SQL Connection initiated
+2025-Apr-03-23:45:10 : Data loaded to Database
+2025-Apr-03-23:45:10 : Process Complete
+2025-Apr-03-23:45:10 :  
+2025-Apr-03-23:45:10 : Data query
+2025-Apr-03-23:45:10 : Data query: Print the contents of the entire table
+2025-Apr-03-23:45:10 : Print the average market capitalization of all the banks in Billion GBP
+2025-Apr-03-23:45:10 : Print only the names of the top 5 banks
+2025-Apr-03-23:45:10 :  
+2025-Apr-03-23:45:10 : Query Complete
